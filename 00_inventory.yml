@@ -1,0 +1,10 @@
+all:
+  vars:
+    #ansible_python_interpreter: /usr/bin/python3
+    ansible_python_interpreter: /usr/libexec/platform-python
+    
+  hosts:
+    #172.31.46.7:
+    172.31.35.246:
+    #172.31.44.7:
+
